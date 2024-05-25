@@ -9,7 +9,7 @@
 
 🎓   Superior em ***Analise e Desenvolvimento de Sistemas***.
 
-🌱   Aprendendo mais sobre ***JAVA***..
+🌱   Desenvolvedor ***JAVA***. ☕
 
 
 [![card](https://github-readme-stats.vercel.app/api?username=alexmeddeiros&theme=dark)](https://github.com/alexmeddeiros/) [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmeddeiros&hide=html&layout=compact=true&theme=dark)](https://github.com/alexmeddeiros/)
